@@ -25,4 +25,6 @@ When exploring this darknet marketplace, prioritize your security and always tak
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/images/app.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/images/show.webp" alt="image" style="max-width: 100%;"><a>
 
-Update:  18 September Link is now working and available
+
+
+Update:  01.10.2025
